@@ -1,0 +1,1 @@
+# elastic-security-mitre-coverage
